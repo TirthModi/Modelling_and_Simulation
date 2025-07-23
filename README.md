@@ -56,5 +56,6 @@ All reports were written using **REVTeX**, the LaTeX class used by the American 
 ## 👨‍💻 Author
 
 **Tirth Modi**  
+**Natansh Shah**
 - 🎓 B.Tech ICT + CS   
 - 🏛️ Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)
